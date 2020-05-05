@@ -9,5 +9,23 @@ jobs:
     - name: Test curl
       run: |
         curl https://git.openstreetmap.org/
-        sleep 2
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
+        sleep 1
         curl https://git.openstreetmap.org/
