@@ -18,6 +18,12 @@ jobs:
         curl --silent --show-error --local-port 2048 https://join.osmfoundation.org/ -o /dev/null
         # Fails
         curl --silent --show-error --local-port 2049 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2050 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2051 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2052 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2053 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2054 https://join.osmfoundation.org/ -o /dev/null
+        curl --silent --show-error --local-port 2055 https://join.osmfoundation.org/ -o /dev/null
         sleep 5
         sudo killall -2 tcpdump
         sleep 1
