@@ -19,3 +19,7 @@ jobs:
         git ls-remote https://git.openstreetmap.org/public/rails.git
         sleep 1
         git ls-remote https://git.openstreetmap.org/public/rails.git
+        sleep 1
+        git ls-remote https://git.openstreetmap.org/public/rails.git
+        sleep 1
+        git ls-remote https://git.openstreetmap.org/public/rails.git
