@@ -29,3 +29,5 @@ jobs:
         curl https://git.openstreetmap.org/
         sleep 1
         curl https://git.openstreetmap.org/
+        sleep 1
+        curl https://git.openstreetmap.org/
